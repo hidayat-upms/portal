@@ -31,7 +31,7 @@ import ApplicationLogo from '@/Components/ApplicationLogo.vue';
                 </div>
 
                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                    Laravel has wonderful documentation covering every aspect of the framework. Whether you're new to the framework or have previous experience, we recommend reading all of the documentation from beginning to end.
+                    Laravel has wonderful documentation assass covering every aspect of the framework. Whether you're new to the framework or have previous experience, we recommend reading all of the documentation from beginning to end.
                 </p>
 
                 <p class="mt-4 text-sm">
